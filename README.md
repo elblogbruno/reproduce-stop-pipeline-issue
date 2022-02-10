@@ -2,6 +2,10 @@ This is a sample code to reproduce errors in SPI communication between an OAK D 
 
 I want to be able to pass the hand data from hand recognition to esp32 and also the oak to receive messages from esp32 that tell the oak to stop running or run again to reduce battery usage when end user has disconnected from bluetooth.
 
+I am running  esp32-spi-message-demo  commit `ff8d252f211dcd651b34355642bb1578718af944` 
+https://github.com/luxonis/esp32-spi-message-demo/commit/ff8d252f211dcd651b34355642bb1578718af944
+
+and depthai commit : `f83ff69db8ad9cc4fe174e59ee48ad81c59867bb`
 # How to reproduce:
 
 ## Sample code
