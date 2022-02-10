@@ -5,7 +5,7 @@ I want to be able to pass the hand data from hand recognition to esp32 and also 
 I am running  esp32-spi-message-demo  commit `ff8d252f211dcd651b34355642bb1578718af944` 
 https://github.com/luxonis/esp32-spi-message-demo/commit/ff8d252f211dcd651b34355642bb1578718af944
 
-and depthai commit : `f83ff69db8ad9cc4fe174e59ee48ad81c59867bb`
+and depthai commit : `f83ff69db8ad9cc4fe174e59ee48ad81c59867bb` https://github.com/luxonis/depthai/commit/f83ff69db8ad9cc4fe174e59ee48ad81c59867bb
 # How to reproduce:
 
 ## Sample code
